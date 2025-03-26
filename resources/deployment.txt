@@ -1,0 +1,21 @@
+PHP Deployment on Almighty
+
+
+0. Execute SQL DDL and DML 
+
+PHP
+Try out functions:
+1. Add recipe
+2. Remove recipe
+3. Update Recipe
+4. Search for recipe
+5. Have a look at the tables: "Resultat der Rezeptsuche"
+6. Search for ingredients
+7. Have a look at the search results for the ingredients of your selected recipe and how to prepare them
+8. Check/search how much you'll need of each ingredient dependent on a selected recipe
+9. Have a look at the result
+10. Check ingredients in terms of their ayurvedic properties: dosha-type and information on its philosophy in Ayurveda
+
+
+JAVA
+1. Execute Java code in command window: inserting 1000 recipes, all ingredients in the randomcreator as well as their seasonality (amounts to each approximately 270 tuples)and insert 1000 "has" tuples, which means in addition the amount and unit of each ingredient and its respective recipe is added. 
